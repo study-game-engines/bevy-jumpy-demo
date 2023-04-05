@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["ColliderShape","The Jumpy collision shape type."]],"fn":[["install",""]],"mod":[["collisions","Collision detection implementation."]],"struct":[["KinematicBody","A kinematic physics body"]]};

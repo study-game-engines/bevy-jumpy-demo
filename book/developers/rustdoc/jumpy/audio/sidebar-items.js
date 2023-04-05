@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":[["MUSIC_FADE_DURATION",""]],"enum":[["MusicState",""]],"fn":[["music_system","Plays music according to the game mode."],["setup_audio_defaults",""]],"struct":[["EffectsChannel",""],["JumpyAudioPlugin",""],["MusicChannel",""],["ShuffledPlaylist",""]]};
